@@ -9,7 +9,7 @@ Addition
 	-secondNumber
 	
 	
-  * Examples
+  * Exemplos
 	api/calc/add?firstNumber=5&secondNumber=3
 	```
 	{
